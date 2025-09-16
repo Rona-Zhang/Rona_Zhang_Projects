@@ -28,7 +28,7 @@ Developed a multimodal emotion recognition system that fuses text embeddings fro
 
 ### Spotify Music Genre Classification with Machine Learning
 This project built a machine learning pipeline to classify Spotify songs into genres using a combination of preprocessing, dimensionality reduction, and ensemble modeling. PCA and KMeans revealed meaningful structure in the audio features, while a tuned Random Forest classifier delivered strong predictive performance and generalization across genres. Feature importance analysis identified popularity, loudness, and instrumentalness as the most influential predictors, providing both accuracy and interpretability. The project demonstrated how audio attributes can effectively capture genre distinctions and support multi-class classification at scale.
-- [Report](Spotify_Music_Genre_Classification_with_Machine_Learning.pdf)
+- [Report](Spotify_Music_Genre_Classification_%20with_Machine_Learning.pdf)
 - [Notebook](Spotify_Music_Genre_Classification_with_Machine_Learning_code.ipynb)
 
 ### Home Credit Default Risk ADS Audit
@@ -46,7 +46,7 @@ This project reviewed David Card's classic study on the 1980 Mariel Boatlift, wh
 ### Spotify Music Popularity Analysis & Predictive Modeling
 Examined Spotify audio features to predict and explain song popularity. The dataset was cleaned, standardized with z-score normalization, and reduced with PCA to uncover structure. Statistical tests (Mann-Whitney U), correlation analysis, and regression models identified significant differences across song attributes and revealed instrumentalness as the strongest predictor of popularity, with multiple regression improving accuracy. Logistic regression and classification trees were also applied for predicting mode and genre.
 - [Report](Spotify%20Music%20Popularity%20Analysis%20%26%20Predictive%20Modeling.pdf)
-- [Notebook](Spotify_Music_Popularity_Analysis_Predictive_Modeling_code.ipynb)
+- [Notebook](Spotify_Music_Popularity_Analysis%20_Predictive_Modeling_code.ipynb)
 
 ---
 
