@@ -25,6 +25,8 @@ Developed a multimodal emotion recognition system that fuses text embeddings fro
 - [Slides](Investigating%20Multimodal%20Fusion%20for%20Emotion%20Recognition%20Using%20Deep%20Learning.pdf)
 - [Notebook 1](Multimodelcode1.ipynb)
 - [Notebook 2](Multimodelcode2.ipynb)
+  
+*(Click the links above and use Download raw file to run the notebooks in Jupyter)*
 
 ### Spotify Music Genre Classification with Machine Learning
 This project built a machine learning pipeline to classify Spotify songs into genres using a combination of preprocessing, dimensionality reduction, and ensemble modeling. PCA and KMeans revealed meaningful structure in the audio features, while a tuned Random Forest classifier delivered strong predictive performance and generalization across genres. Feature importance analysis identified popularity, loudness, and instrumentalness as the most influential predictors, providing both accuracy and interpretability. The project demonstrated how audio attributes can effectively capture genre distinctions and support multi-class classification at scale.
@@ -47,6 +49,20 @@ This project reviewed David Card's classic study on the 1980 Mariel Boatlift, wh
 Examined Spotify audio features to predict and explain song popularity. The dataset was cleaned, standardized with z-score normalization, and reduced with PCA to uncover structure. Statistical tests (Mann-Whitney U), correlation analysis, and regression models identified significant differences across song attributes and revealed instrumentalness as the strongest predictor of popularity, with multiple regression improving accuracy. Logistic regression and classification trees were also applied for predicting mode and genre.
 - [Report](Spotify%20Music%20Popularity%20Analysis%20%26%20Predictive%20Modeling.pdf)
 - [Notebook](Spotify_Music_Popularity_Analysis%20_Predictive_Modeling_code.ipynb)
+
+### Time Series Modeling with Applications in Economics
+Applied advanced time-series methods, ARIMA (Autoregressive Integrated Moving Average) and ETS (Exponential Smoothing), to forecast U.S. stock indices (S&P500, NASDAQ, and DJIA). Using two decades of historical data, our team performed preprocessing steps such as logarithmic transformations and differencing to achieve stationarity, then compared the predictive accuracy of ARIMA and ETS under conditions of market volatility. The analysis highlighted ARIMA's relative strength in capturing volatility and long-term patterns. Then culminated in a group presentation, technical report, and a peer-reviewed individual publication paper at EMFRM 2023, offering insights valuable to investors, researchers, and policymakers for understanding stock market behavior and improving forecasting strategies.
+- [Report](TimeSeriesProjectReport.pdf)
+- [Notebook](Time-Series-code.html)
+- [Publication Paper](Time-Series%20paper.pdf)
+
+### Singapore Economy Analysis
+This project analyzed Singapore's economic development from 2001 to 2020 using indicators such as GDP, FDI, employment, and consumer prices. Data was processed and visualized in Excel to generate graphs showing growth patterns and the impacts of events like the 2008 financial crisis and COVID-19. The study highlighted Singapore's resilience, policy-driven growth, and transformation into a global financial hub, while noting volatility and sustainability challenges.
+- [Report](Singapore%20Economy%20Analysis.pdf)
+
+### SWS Healthcare Stock Pitch – Reata Pharmaceuticals
+Evaluated Reata Pharmaceuticals as an investment opportunity using SWOT, PESTLE, and Porter's Five Forces analyses, supported by revenue forecasting and peer benchmarking. The research incorporated clinical trial outcomes, FDA approvals, and industry growth drivers to assess the company's pipeline and strategic position. A discounted cash flow model and valuation multiples reinforced the investment thesis, which projected over 100% upside potential.
+- [Slides](Reata%20Pharmaceuticals.pdf)
 
 ---
 
