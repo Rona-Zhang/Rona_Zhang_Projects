@@ -9,7 +9,7 @@
 I'm passionate about harnessing the power of data to solve real-world challenges. Grounded in quantitative research and analytics, I thrive in dynamic settings where innovation, strategy, and collaboration come together.  
 
 🎒 MS in Business Analytics @ USC Marshall  
-🎓 BA in Data Science (with Economics & Mathematics) @ NYU  
+🎓 BA in Data Science (Minor in Mathematics & Business Studies) @ NYU  
 
 ---
 
