@@ -20,6 +20,14 @@ I'm passionate about harnessing the power of data to solve real-world challenges
 ---
 
 ## 🌟 Projects
+
+### TuneWorks Entertainment Agency Data Analytics Consulting Project
+As a group of seven, we began by building an end-to-end SQL data preparation workflow across 10+ relational tables, validating primary and foreign keys, cleaning missing values, and detecting outliers to ensure reliable revenue and performance analysis. We then conducted exploratory data analysis (EDA) using multi-table joins, window functions, and common table expressions (CTEs) to uncover booking trends, rank agent performance, and evaluate entertainer demand patterns. Throughout the project, we iterated on insights and translated technical results into a clear, client-ready presentation that communicated actionable recommendations for operational optimization and long-term growth.
+- [Slides](TuneWorks_Presentation_Deck.pdf)
+- [Report](TuneWorks_Report.pdf)
+- [Notebook](TuneWorks_Visualizations.ipynb)
+
+
 ### Multimodal Emotion Recognition with Deep Learning
 Developed a multimodal emotion recognition system that fuses text embeddings from fine-tuned BERT with audio features extracted using Mel-Frequency Cepstral Coefficients (MFCC). By constructing preprocessing workflows for both modalities and training multilayer perceptron classifiers, the approach demonstrated that integrating text and audio provides richer emotional context than unimodal baselines. The results highlight the potential of multimodal AI to improve applications such as customer support, mental health monitoring, and human-computer interaction.
 - [Slides](Investigating%20Multimodal%20Fusion%20for%20Emotion%20Recognition%20Using%20Deep%20Learning.pdf)
