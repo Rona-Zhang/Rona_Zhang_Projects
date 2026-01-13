@@ -14,7 +14,7 @@ I'm passionate about harnessing the power of data to solve real-world challenges
 ---
 
 ## 🛠️ Skills
-- Python, SQL, Java, R, Data Management & Visualization (Data wrangling, reporting)
+- Python, SQL, Data Management & Visualization (Data wrangling, reporting), Machine Learning & Deep Learning, Java, R
 - Languages: English (fluent), Mandarin (native)
 
 ---
@@ -40,10 +40,6 @@ Developed a multimodal emotion recognition system that fuses text embeddings fro
 This project built a machine learning pipeline to classify Spotify songs into genres using a combination of preprocessing, dimensionality reduction, and ensemble modeling. PCA and KMeans revealed meaningful structure in the audio features, while a tuned Random Forest classifier delivered strong predictive performance and generalization across genres. Feature importance analysis identified popularity, loudness, and instrumentalness as the most influential predictors, providing both accuracy and interpretability. The project demonstrated how audio attributes can effectively capture genre distinctions and support multi-class classification at scale.
 - [Report](Spotify_Music_Genre_Classification_%20with_Machine_Learning.pdf)
 - [Notebook](Spotify_Music_Genre_Classification_with_Machine_Learning_code.ipynb)
-
-### 6th Annual Global Business Analytics AI Case Competition
-At the 6th Annual Global Business Analytics AI Case Competition, our team Unify was awarded Grand Champion among 33 global teams for developing PrepOn, an AI-powered mock interview platform tailored for USC MSBA students and career advisors. The solution addressed key challenges such as limited practice opportunities, generic tools, and advisor time constraints by offering on-demand, industry-specific interview prep with instant AI feedback, progress dashboards, and scalable support. We showcased a full wireframe, rollout strategy, and value proposition emphasizing personalization, flexibility, and realism, ultimately presenting to 200+ faculty, judges, and industry professionals.
-- [Slides](./2025%20Global%20AI%20Case%20Comp_%20Unify_D5.pdf)
 
 ### PMI LA Project Management Case Challenge
 As part of the PMI Los Angeles Project Management Case Challenge, our team Trojanalytics addressed a critical production bottleneck by designing a project plan for installing and certifying an industrial-grade paint booth system within a strict three-month timeline. We instituted a project charter, stakeholder register, and work breakdown structure, then formulated cost and risk baselines using Monte Carlo simulations and timeline modeling to quantify uncertainties and guide decision-making. When unexpected obstacles emerged, we collaborated on change management analysis, updating scope, schedule, and budget to maintain project feasibility. The final solution demonstrated both regulatory compliance and operational efficiency, while emphasizing structured planning and data-driven risk mitigation.
