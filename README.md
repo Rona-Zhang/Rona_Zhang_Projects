@@ -21,12 +21,17 @@ I'm passionate about harnessing the power of data to solve real-world challenges
 
 ## 🌟 Projects
 
+### Income Inequality in Los Angeles Building Permit Activity
+The project examines how income levels shape building permit activity across Los Angeles neighborhoods, using permit data linked to census-tract income classifications. Leveraging Python-based analysis on Snowflake-hosted data accessed via SQL, the analysis compares permit volume, total valuation, and improvement types between low-income and high-income areas. Through statistical analysis and visualization, the project reveals that while overall permit counts are similar across income groups, meaningful disparities emerge in investment scale and the types of improvements prioritized. Findings are presented through an interactive Streamlit dashboard and narrative report, enabling intuitive exploration of structural inequality in urban development and supporting data-informed planning and policy evaluation.
+- [Report](Income_Inequality_in_Los_angeles_Building_Permit_Activity.pdf)
+- [Notebook](Income_Inequality_in_Los_angeles_Building_Permit_Activity.ipynb)
+  
 ### Amazon Product Ratings & Purchase Behavior Analysis
 This project investigates whether higher product ratings on Amazon are associated with increased purchasing behavior, using a dataset of 30,000+ products. We conducted end-to-end data preparation and exploratory analysis to examine the relationship between star ratings and purchases, while accounting for confounding factors such as review volume, pricing, badges, and product categories. Through descriptive statistics, correlation analysis, visualization, and regression modeling, we identified meaningful patterns and quantified how ratings relate to demand variability across categories. The project emphasizes translating complex analytical results into clear, presentation-ready insights, highlighting both the explanatory power and limitations of the models to support data-driven decision-making for non-technical stakeholders.
 - [Slides](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.pdf)
 - [Notebook](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.ipynb)
 
-### TuneWorks Entertainment Agency Data Analytics Consulting Project
+### TuneWorks Entertainment Agency Data Pipeline Analytics
 As a group of seven, we began by building an end-to-end SQL data preparation workflow across 10+ relational tables, validating primary and foreign keys, cleaning missing values, and detecting outliers to ensure reliable revenue and performance analysis. We then conducted exploratory data analysis (EDA) using multi-table joins, window functions, and common table expressions (CTEs) to uncover booking trends, rank agent performance, and evaluate entertainer demand patterns. Throughout the project, we iterated on insights and translated technical results into a clear, client-ready presentation that communicated actionable recommendations for operational optimization and long-term growth.
 - [Slides](TuneWorks_Presentation_Deck.pdf)
 - [Report](TuneWorks_Report.pdf)
