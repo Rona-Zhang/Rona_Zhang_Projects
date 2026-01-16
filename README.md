@@ -21,12 +21,21 @@ I'm passionate about harnessing the power of data to solve real-world challenges
 
 ## 🌟 Projects
 
+### Amazon Product Ratings & Purchase Behavior Analysis
+This project investigates whether higher product ratings on Amazon are associated with increased purchasing behavior, using a dataset of 30,000+ products. We conducted end-to-end data preparation and exploratory analysis to examine the relationship between star ratings and purchases, while accounting for confounding factors such as review volume, pricing, badges, and product categories. Through descriptive statistics, correlation analysis, visualization, and regression modeling, we identified meaningful patterns and quantified how ratings relate to demand variability across categories. The project emphasizes translating complex analytical results into clear, presentation-ready insights, highlighting both the explanatory power and limitations of the models to support data-driven decision-making for non-technical stakeholders.
+- [Slides](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.pdf)
+- [Notebook](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.ipynb)
+
 ### TuneWorks Entertainment Agency Data Analytics Consulting Project
 As a group of seven, we began by building an end-to-end SQL data preparation workflow across 10+ relational tables, validating primary and foreign keys, cleaning missing values, and detecting outliers to ensure reliable revenue and performance analysis. We then conducted exploratory data analysis (EDA) using multi-table joins, window functions, and common table expressions (CTEs) to uncover booking trends, rank agent performance, and evaluate entertainer demand patterns. Throughout the project, we iterated on insights and translated technical results into a clear, client-ready presentation that communicated actionable recommendations for operational optimization and long-term growth.
 - [Slides](TuneWorks_Presentation_Deck.pdf)
 - [Report](TuneWorks_Report.pdf)
 - [Notebook](TuneWorks_Visualizations.ipynb)
 
+### Spotify Music Popularity Analysis & Predictive Modeling
+Examined Spotify audio features to predict and explain song popularity. The dataset was cleaned, standardized with z-score normalization, and reduced with PCA to uncover structure. Statistical tests (Mann-Whitney U), correlation analysis, and regression models identified significant differences across song attributes and revealed instrumentalness as the strongest predictor of popularity, with multiple regression improving accuracy. Logistic regression and classification trees were also applied for predicting mode and genre.
+- [Report](Spotify%20Music%20Popularity%20Analysis%20%26%20Predictive%20Modeling.pdf)
+- [Notebook](Spotify_Music_Popularity_Analysis%20_Predictive_Modeling_code.ipynb)
 
 ### Multimodal Emotion Recognition with Deep Learning
 Developed a multimodal emotion recognition system that fuses text embeddings from fine-tuned BERT with audio features extracted using Mel-Frequency Cepstral Coefficients (MFCC). By constructing preprocessing workflows for both modalities and training multilayer perceptron classifiers, the approach demonstrated that integrating text and audio provides richer emotional context than unimodal baselines. The results highlight the potential of multimodal AI to improve applications such as customer support, mental health monitoring, and human-computer interaction.
@@ -45,11 +54,6 @@ This project built a machine learning pipeline to classify Spotify songs into ge
 As part of the PMI Los Angeles Project Management Case Challenge, our team Trojanalytics addressed a critical production bottleneck by designing a project plan for installing and certifying an industrial-grade paint booth system within a strict three-month timeline. We instituted a project charter, stakeholder register, and work breakdown structure, then formulated cost and risk baselines using Monte Carlo simulations and timeline modeling to quantify uncertainties and guide decision-making. When unexpected obstacles emerged, we collaborated on change management analysis, updating scope, schedule, and budget to maintain project feasibility. The final solution demonstrated both regulatory compliance and operational efficiency, while emphasizing structured planning and data-driven risk mitigation.
 - [Slides](PMI_LA_Case_Challenge.pdf)
 - [Other Project Materials](https://drive.google.com/drive/folders/1DuHW8aUNd0tU44S_42EXBCkLauxIdWsn?usp=sharing)
-
-### Spotify Music Popularity Analysis & Predictive Modeling
-Examined Spotify audio features to predict and explain song popularity. The dataset was cleaned, standardized with z-score normalization, and reduced with PCA to uncover structure. Statistical tests (Mann-Whitney U), correlation analysis, and regression models identified significant differences across song attributes and revealed instrumentalness as the strongest predictor of popularity, with multiple regression improving accuracy. Logistic regression and classification trees were also applied for predicting mode and genre.
-- [Report](Spotify%20Music%20Popularity%20Analysis%20%26%20Predictive%20Modeling.pdf)
-- [Notebook](Spotify_Music_Popularity_Analysis%20_Predictive_Modeling_code.ipynb)
 
 ### Time Series Modeling with Applications in Economics
 Applied advanced time-series methods, ARIMA (Autoregressive Integrated Moving Average) and ETS (Exponential Smoothing), to forecast U.S. stock indices (S&P500, NASDAQ, and DJIA). Using two decades of historical data, our team performed preprocessing steps such as logarithmic transformations and differencing to achieve stationarity, then compared the predictive accuracy of ARIMA and ETS under conditions of market volatility. The analysis highlighted ARIMA's relative strength in capturing volatility and long-term patterns. Then culminated in a group presentation, technical report, and a peer-reviewed individual publication paper at EMFRM 2023, offering insights valuable to investors, researchers, and policymakers for understanding stock market behavior and improving forecasting strategies.
