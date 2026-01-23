@@ -14,8 +14,8 @@ I'm passionate about harnessing the power of data to solve real-world challenges
 ---
 
 ## 🛠️ Skills
-- Python, SQL, Data Management & Visualization (Data wrangling, reporting), Machine Learning & Deep Learning, Java, R
-- Languages: English (fluent), Mandarin (native)
+- Python, SQL, Java, R, Excel, Data Visualization (Tableau, Power BI, Streamlit), Statistical Analysis (Quantitative Analysis),
+Machine Learning, Predictive Modeling, Data Transformation, Data Cleaning & Validation, Exploratory Data Analysis, Data Integration & Reporting
 
 ---
 
@@ -26,7 +26,7 @@ The project examines how income levels shape building permit activity across Los
 - [Report](Income_Inequality_in_Los_angeles_Building_Permit_Activity.pdf)
 - [Notebook](Income_Inequality_in_Los_angeles_Building_Permit_Activity.ipynb)
   
-### Amazon Product Ratings & Purchase Behavior Analysis
+### Amazon Product Ratings & Purchase Behavior Analytics
 This project investigates whether higher product ratings on Amazon are associated with increased purchasing behavior, using a dataset of 30,000+ products. We conducted end-to-end data preparation and exploratory analysis to examine the relationship between star ratings and purchases, while accounting for confounding factors such as review volume, pricing, badges, and product categories. Through descriptive statistics, correlation analysis, visualization, and regression modeling, we identified meaningful patterns and quantified how ratings relate to demand variability across categories. The project emphasizes translating complex analytical results into clear, presentation-ready insights, highlighting both the explanatory power and limitations of the models to support data-driven decision-making for non-technical stakeholders.
 - [Slides](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.pdf)
 - [Notebook](Amazon_Product_Ratings_&_Purchase_Behavior_Analysis.ipynb)
@@ -37,7 +37,7 @@ As a group of seven, we began by building an end-to-end SQL data preparation wor
 - [Report](TuneWorks_Report.pdf)
 - [Notebook](TuneWorks_Visualizations.ipynb)
 
-### Spotify Music Popularity Analysis & Predictive Modeling
+### Spotify Music Popularity Analytics & Predictive Modeling
 Examined Spotify audio features to predict and explain song popularity. The dataset was cleaned, standardized with z-score normalization, and reduced with PCA to uncover structure. Statistical tests (Mann-Whitney U), correlation analysis, and regression models identified significant differences across song attributes and revealed instrumentalness as the strongest predictor of popularity, with multiple regression improving accuracy. Logistic regression and classification trees were also applied for predicting mode and genre.
 - [Report](Spotify%20Music%20Popularity%20Analysis%20%26%20Predictive%20Modeling.pdf)
 - [Notebook](Spotify_Music_Popularity_Analysis%20_Predictive_Modeling_code.ipynb)
