@@ -20,7 +20,10 @@ Machine Learning, Predictive Modeling, Data Transformation, Data Cleaning & Vali
 ---
 
 ## 🌟 Projects
-
+### Kickstarter Campaign Success Drivers & Platform Insights Analytics
+This project analyzes Kickstarter campaign data to understand the key factors driving campaign success under the platform’s all-or-nothing funding model. Using Python and visualization techniques, the analysis explores how funding goals, campaign duration, category differences, and backer engagement relate to funding outcomes. Through distributional, comparative, and time-based analysis, the project uncovers key patterns in campaign performance, including the importance of realistic goal-setting, significant variation in success rates across categories, and the strong relationship between user engagement and funding results. It also highlights how increasing platform activity may intensify competition and impact success probability over time. These findings provide actionable insights for optimizing campaign design and funding goal-setting strategies, offering a data-driven perspective on improving campaign success probability.
+- [Notebook](Kickstarter_Data_Analysis.ipynb)
+  
 ### Income Inequality in Los Angeles Building Permit Activity
 The project examines how income levels shape building permit activity across Los Angeles neighborhoods, using permit data linked to census-tract income classifications. Leveraging Python-based analysis on Snowflake-hosted data accessed via SQL, the analysis compares permit volume, total valuation, and improvement types between low-income and high-income areas. Through statistical analysis and visualization, the project reveals that while overall permit counts are similar across income groups, meaningful disparities emerge in investment scale and the types of improvements prioritized. Findings are presented through an interactive Streamlit dashboard and narrative report, enabling intuitive exploration of structural inequality in urban development and supporting data-informed planning and policy evaluation.
 - [Report](Income_Inequality_in_Los_angeles_Building_Permit_Activity.pdf)
