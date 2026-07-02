@@ -20,6 +20,14 @@ Machine Learning, Predictive Modeling, Data Transformation, Data Cleaning & Vali
 ---
 
 ## 🌟 Projects
+### Auto Insurance Claim Prediction & Loss Modeling
+Built an end-to-end insurance risk modeling pipeline using 39,000+ auto policy records to support pricing and underwriting decisions. The workflow engineers 20+ predictors from policy dates, vehicle attributes, premiums, driver characteristics, payment behavior, and claim history, then models zero-inflated and right-skewed outcomes including claim status, loss cost (LC), and historically adjusted loss cost (HALC). Multiple approaches were compared, including Tweedie GLM, XGBoost, LightGBM, and two-stage frequency-severity models, with Two-Stage LightGBM selected for the lowest LC/HALC MSE. A LightGBM classifier was also used to predict claim probability, achieving 0.86 ROC-AUC, and SHAP analysis identified renewal timing, premium, driver age, and payment behavior as interpretable risk drivers.
+- [Report](https://github.com/Rona-Zhang/Rona_Zhang_Projects/raw/main/Insurance_Risk_Prediction/Report.pdf)
+- [Poster](https://github.com/Rona-Zhang/Rona_Zhang_Projects/raw/main/Insurance_Risk_Prediction/Poster.pdf)
+- [Analysis PDF](https://github.com/Rona-Zhang/Rona_Zhang_Projects/raw/main/Insurance_Risk_Prediction/Analysis.pdf)
+- [Notebook Source](Insurance_Risk_Prediction/Analysis.ipynb)
+- [Prediction Output](Insurance_Risk_Prediction/Output.csv)
+
 ### Kickstarter Campaign Success Drivers & Platform Insights Analytics
 This project analyzes Kickstarter campaign data to understand the key factors driving campaign success under the platform’s all-or-nothing funding model. Using Python and visualization techniques, the analysis explores how funding goals, campaign duration, category differences, and backer engagement relate to funding outcomes. Through distributional, comparative, and time-based analysis, the project uncovers key patterns in campaign performance, including the importance of realistic goal-setting, significant variation in success rates across categories, and the strong relationship between user engagement and funding results. It also highlights how increasing platform activity may intensify competition and impact success probability over time. These findings provide actionable insights for optimizing campaign design and funding goal-setting strategies, offering a data-driven perspective on improving campaign success probability.
 - [Notebook](https://github.com/Rona-Zhang/Rona_Zhang_Projects/raw/main/Kickstarter_Data_Analysis_notebook.pdf)
